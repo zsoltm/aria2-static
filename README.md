@@ -1,7 +1,7 @@
 Aria2 Static / multiArch Release Scripts 
 ========================================
 
-The goal of this repo is to provide static builds of (aria2c)[http://aria2.sourceforge.net/] the "ultra fast" command
+The goal of this repo is to provide static builds of [`aria2c`](http://aria2.sourceforge.net/) the "ultra fast" command
 line downloader primarily for use within [docker](http://www.docker.io/).
 
 Check out the [releases](https://github.com/zsoltm/aria2-static/releases) section for downloadable tarballs; or the
