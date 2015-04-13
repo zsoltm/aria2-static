@@ -5,7 +5,7 @@ The goal of this repo is to provide static builds of [`aria2c`](http://aria2.sou
 line downloader primarily for use within [docker](http://www.docker.io/).
 
 Check out the [releases](https://github.com/zsoltm/aria2-static/releases) section for downloadable tarballs; or the
-original [aria2 github page]
+original [aria2 github page](https://github.com/tatsuhiro-t/aria2)
 
 ## Prerequisites
 
